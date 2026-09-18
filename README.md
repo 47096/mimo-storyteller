@@ -1,7 +1,7 @@
 # 🎙️ MiMo Storyteller
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)](LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-magenta.svg)](https://wsamuelw.github.io/mimo-storyteller/)
+[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-magenta.svg)](https://47096.github.io/mimo-storyteller/)
 
 **English** | [简体中文](README-zh-CN.md) | [繁體中文](README-zh-TW.md)
 
@@ -22,7 +22,7 @@ Sign up at [platform.xiaomimimo.com](https://platform.xiaomimimo.com?ref=RRJPZE)
 
 ## Quick Start
 
-1. Open `index.html` in a browser (or visit the [live demo](https://wsamuelw.github.io/mimo-storyteller/))
+1. Open `index.html` in a browser (or visit the [live demo](https://47096.github.io/mimo-storyteller/))
 2. Click ⚙️ Settings and paste your MiMo API key
 3. Write a story (or click ✨ to generate one with AI)
 4. Assign voices to characters in the character cards
