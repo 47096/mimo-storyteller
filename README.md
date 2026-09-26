@@ -29,14 +29,25 @@ Invite **`RRJPZE`** on [platform.xiaomimimo.com](https://platform.xiaomimimo.com
 
 ![MiMo Invite](images/RRJPZE.png)
 
-## Use cases
+## Five commercial use cases
 
-| Use | How |
-|-----|-----|
-| **Kids storytime** | Script or AI story → cast voices → read along |
-| **Education / language** | Dialogue practice with speaker roles |
-| **Content & podcasts** | Multi-character scenes without multiple voice actors |
-| **Accessibility** | Listening + visual tracking of who speaks |
+| # | Use case | Who cares |
+|---|----------|-----------|
+| 1 | **Brand stories & explainers** | Marketing |
+| 2 | **E-learning dialogues** | L&D / EdTech |
+| 3 | **Kids’ content / story products** | Media / apps |
+| 4 | **Accessibility narration** | CX / product |
+| 5 | **Localised multi-language stories** | Global content teams |
+
+## Five personal use cases
+
+| # | Use case |
+|---|----------|
+| 1 | Bedtime stories with different character voices |
+| 2 | Language practice (read + listen as roles) |
+| 3 | Podcast / YouTube skits without cast |
+| 4 | Family or classroom projects |
+| 5 | Fun keepsake stories to share |
 
 ## How it works
 
