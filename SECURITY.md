@@ -9,7 +9,7 @@ This policy applies to the latest version on the `main` branch.
 If you discover a security vulnerability, please report it responsibly:
 
 1. **Do not** open a public GitHub issue
-2. Use [GitHub's private vulnerability reporting](https://github.com/wsamuelw/mimo-storyteller/security/advisories/new)
+2. Use [GitHub's private vulnerability reporting](https://github.com/47096/mimo-storyteller/security/advisories/new)
 3. Include steps to reproduce, potential impact, and suggested fix (if any)
 
 We aim to acknowledge reports within 48 hours and provide a fix within 7 days for confirmed vulnerabilities.

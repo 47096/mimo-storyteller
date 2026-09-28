@@ -71,7 +71,7 @@ Use conventional commits:
 
 ## Reporting Issues
 
-Use the [issue templates](https://github.com/wsamuelw/mimo-storyteller/issues/new/choose). Include:
+Use the [issue templates](https://github.com/47096/mimo-storyteller/issues/new/choose). Include:
 - Browser and version
 - Steps to reproduce
 - Expected vs actual behavior

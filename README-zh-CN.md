@@ -1,7 +1,7 @@
 # 🎙️ MiMo Storyteller
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)](LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-magenta.svg)](https://wsamuelw.github.io/mimo-storyteller/)
+[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-magenta.svg)](https://47096.github.io/mimo-storyteller/)
 
 [English](README.md) | **简体中文** | [繁體中文](README-zh-TW.md)
 
@@ -22,7 +22,7 @@ MiMo-V2.5 TTS 限时免费——所以我做了一个多角色故事讲述器。
 
 ## 快速开始
 
-1. 在浏览器中打开 `index.html`（或访问[在线演示](https://wsamuelw.github.io/mimo-storyteller/)）
+1. 在浏览器中打开 `index.html`（或访问[在线演示](https://47096.github.io/mimo-storyteller/)）
 2. 点击 ⚙️ 设置，粘贴你的 MiMo API 密钥
 3. 写一个故事（或点击 ✨ 用 AI 生成）
 4. 在角色卡片中为每个角色分配声音
